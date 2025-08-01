@@ -56,7 +56,7 @@ To gain insights into road accident trends, identify high-risk conditions, and v
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard_screenshot.jpg)
+![Dashboard Screenshot](dashboard_screenshot.jpg)
 
 ---
 
